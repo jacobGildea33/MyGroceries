@@ -1,0 +1,3 @@
+Language: cpp
+script:
+  - make
