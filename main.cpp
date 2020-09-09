@@ -29,10 +29,10 @@ int main()
   if(list.size() >= 1){
      for(int i = 0; i < list.size(); i++){
          cout << i << " " << list[i] << endl;
-     {
-  } else {
+     }
+  }else{
      cout << "there are no items on the list." << endl;
-  {
+  }
  
    return 0;
 }
